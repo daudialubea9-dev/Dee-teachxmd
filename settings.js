@@ -1,7 +1,7 @@
-const settings = {
+const settings = {Q
   packname: 'DEE XMD',
   author: '‎',
-  botName: "DEE ASASIN MD",
+  botName: "DEE ASASINMD",
   botOwner: 'DEE XMD', // Your name
   ownerNumber: '255711433904', //Set your number here without + symbol, just add country code & number without any space
   giphyApiKey: 'qnl7ssQChTdPjsKta2Ax2LMaGXz303tq',
