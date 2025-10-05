@@ -1,4 +1,4 @@
-const settings = {Q
+const settings = {
   packname: 'DEE XMD',
   author: '‎',
   botName: "DEE ASASINMD",
