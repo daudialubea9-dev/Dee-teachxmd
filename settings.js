@@ -1,7 +1,7 @@
 const settings = {
-  packname: 'DEE XMD',
+  packname: 'DEEXMD',
   author: '‎',
-  botName: "DEE ASASINMD",
+  botName: "DEE MD",
   botOwner: 'DEE XMD', // Your name
   ownerNumber: '255711433904', //Set your number here without + symbol, just add country code & number without any space
   giphyApiKey: 'qnl7ssQChTdPjsKta2Ax2LMaGXz303tq',
