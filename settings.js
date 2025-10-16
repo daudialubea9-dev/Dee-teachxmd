@@ -1,9 +1,9 @@
 const settings = {
   packname: 'DEEXMD',
   author: '‎',
-  botName: "DEE MD",
-  botOwner: 'DEE MD', // Your name
-  ownerNumber: '255768948672', //Set your number here without + symbol, just add country code & number without any space
+  botName: "DEE XMD",
+  botOwner: 'DEE XMD', // Your name
+  ownerNumber: '255711433904', //Set your number here without + symbol, just add country code & number without any space
   giphyApiKey: 'qnl7ssQChTdPjsKta2Ax2LMaGXz303tq',
   commandMode: "private",
   maxStoreMessages: 20, 
